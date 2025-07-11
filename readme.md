@@ -3,6 +3,7 @@ md stands for markdown
 
 #Heading: Personal Notes I Took While Learning Github
 ##Subheading 
+"git clone git@github.com:hicazi2/spork.git" creates a copy of the repository in the folder we are working on.
 "git status" command shows all of the files that were been updated or created or deleted. 
 "git add ." tracks all files before commiting 
 Alternatively, we can use "git specific.extension" command for tracking a specific file. 
