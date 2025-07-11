@@ -30,6 +30,11 @@ To create a new branch, we can use 'git checkout -b "title-of-the-branch" '
 "git diff BRANCHNAME" shows the difference between branches 
 ...
 
+##Subheading 2
+If you created another folder named "anotherFolder", git cannot work on that automatically.
+Git manages the file system with its hidden files.
+So we need to add those files within the folder we created by using "git init" which initializes git.
+
 ##Undoing in git
 
 "git reset HEAD~1" allows you to delete last commit.
