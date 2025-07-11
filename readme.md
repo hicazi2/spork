@@ -1,3 +1,5 @@
+you can see the following notes I took while learning git comments for the first time. If you are interested in my project, please check readme2.md file
+
 description of spork
 md stands for markdown
 
